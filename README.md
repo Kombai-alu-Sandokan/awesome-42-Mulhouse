@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" height="266" src="media/tiny42Lawsm.png" alt="Awesome">
+	<img width="500" height="266" src="media/logo-white.png" alt="Awesome">
 </div>
 <br>
 <p align="center">
@@ -9,10 +9,11 @@
 </p>
 
 ### À propos
-Une awesome liste pour 42 Lyon ! <a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">C'est quoi une awesome list ? (anglais)</a><br>
+Une awesome liste pour 42 Mulhouse ! <a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">C'est quoi une awesome list ? (anglais)</a><br>
+Cette liste est une fork de l'awesome liste de Lyon (https://github.com/martinschneider01/awesome-42-lyon.git).
 La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fichier README.md, en respectant <a href="https://github.com/sindresorhus/awesome/blob/master/contributing.md">le guide de contribution (anglais)</a> :bowtie:
 
-*Cette page a été réalisé par des étudiants de l'école 42 Lyon*
+*Cette page a été réalisé pour les étudiants de l'école 42 Mulhouse*
 
 ## Table des matières
 - [42 Ecosystème](#42ecosystème)
@@ -36,13 +37,11 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 	
 42 Ecosystème
 -------------
-*Outils et docs qui gravitent autour de l'environnement 42 et 42 Lyon*
+*Outils et docs qui gravitent autour de l'environnement 42 et 42 Mulhouse*
 
 * [Intra 42](http://intra.42.fr) - You know this website, don't you?
-* [The Matrix](https://the-matrix.le-101.fr/) - La carte des clusters de 42 Lyon !
-* [Intra Tuteurs](https://tuteurs.le-101.fr/) - Blog et intra des tuteurs de 42 Lyon
-* [Github des Tuteurs](https://github.com/Tuteurs101/) - Des codes reviews, des ressources en rapport avec 42 Lyon, par des studs de 42 Lyon !
 * [Discord 42](https://discord.gg/wsrkKE4) - Discord non officiel de 42, pour les curieux, piscineux et étudiants
+* [Discord 42-Mulhouse](https://discord.gg/AxHjqpfz) - Discord non officiel de 42 Mulhouse 
 * [42homebrew](https://github.com/kube/42homebrew) - Permet d'installer Homebrew (outil de gestion de paquets pour Mac) sur ta session 42
 * [RP42](https://github.com/alexandregv/RP42) - Rich Presence Discord pour 42 (campus, position, niveau, coalition, etc)
 * [42toolbox](https://github.com/alexandregv/42toolbox) - Boite à outils pour vous faciliter la vie à 42 (docker, valgrind, setup session, etc)
@@ -102,7 +101,6 @@ Ressources en ligne
 *Sites de tutos, d'actualités, d'articles*
 
 #### Général
-* /sgoinfre/Brainfood (sur le réseau de 42 Lyon oc) - Beaucoups de PDF (cours, tutos)
 * [Comment Devenir un bon programmeur](https://programmation.developpez.com/tutoriel/comment-devenir-bon-programmeur/?page=introduction) - Long tutoriel qui couvre beaucoup de sujets autour du métier de développeur
 
 #### Programmation
@@ -111,20 +109,12 @@ Ressources en ligne
 
 Bons plans IRL
 --------------
-*Toutes les réductions qu'il est possible d'avoir en étant étudiant à 42 Lyon, ou juste les coins cool de Lyon*
+*Toutes les réductions qu'il est possible d'avoir en étant étudiant à 42 Mulhouse, ou juste les coins cool de Mulhouse*
 
 #### Bars
-* [ConfluTime](https://fr-fr.facebook.com/pages/category/Bar/ConfluTime-1841249056168178/) - Bar proche de l'école, Happy Hours constant pour les students avec la carte - 5€/pinte
 
 #### Restos
-* Subway - Réduction étudiante de 10% et programme de fidélité via App Mobile
-* BurgerKing - Menu KingDeal à 5€50 environ, bon rapport quantité prix
-* [McDonald's](https://www.mcdonalds.fr/actualites/programme-fidelite) - Programme de fidélité via App Mobile
 
 #### Culture
-* [Musée des Confluences](http://www.museedesconfluences.fr/fr/informations-pratiques) - Musée gratuit pour les étudiants de moins de 26 ans
-* Cinéma UGC - Des réductions pour avoir des places à 6€ sont assez régulièrements distribuées à Carrefour Confluence
 
 #### Autre
-* [Carte DINO](https://www.carte-dino.fr/) - Pour les -26 ans, permet d'avoir des réductions dans plein d'enseignes (Happy Hours constant au Hopstore par exemple), et des trucs offerts dans certains bars/restos (Plateau de Sushi chez Sushi Shop par exemple): 15€ la carte pour un an - Vraiment super bon plan
-* [TCL](http://www.tcl.fr/) - Réduction TCL étudiante (Abonnement à 31,80€)
